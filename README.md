@@ -2,6 +2,8 @@
 
 <p align="center">
 
+x
+
 ![Google Analytics 4](https://img.shields.io/badge/GA4-FABC05?style=flat-square&logo=googleanalytics&logoColor=black)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-34A853?style=flat-square&logo=googletagmanager&logoColor=white)
 ![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-1877F2?style=flat-square&logo=meta&logoColor=white)
@@ -23,6 +25,14 @@
 I’m a **Consent & Tracking Specialist** and full-stack **Web Analytics Integrator**, helping businesses track, optimize, and comply. From advanced conversion tracking to real-time dashboards, I make sure your data works for your growth.
 
 ## 🎯 Services I Offer
+### 🔐 Website Developement
+- Wordpress Website Developement
+- Shopify Store Setup and management 
+- Wix Store Setup
+- Next js 
+- React/MongoDB/NodeJS/ExperssJS
+- Malware Remove
+- Hosting Management
 
 ### 🔐 Consent & Tracking Integration
 - Google Tag Manager (GTM) expert setup
