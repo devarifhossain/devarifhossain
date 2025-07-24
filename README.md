@@ -20,7 +20,7 @@
 
 ---
 
-I’m a **Consent & Tracking Specialist** and full-stack **Web Analytics Integrator**, helping businesses track, optimize, and comply. From advanced conversion tracking to real-time dashboards, I make sure your data works for your growth.
+I’m a **Full Stack Web Developer ** and full-stack **Web Analytics Integrator**, helping businesses track, optimize, and comply. From advanced conversion tracking to real-time dashboards, I make sure your data works for your growth.
 
 ## 🎯 Services I Offer
 ### 🔐 Website Developement
