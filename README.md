@@ -2,8 +2,6 @@
 
 <p align="center">
 
-x
-
 ![Google Analytics 4](https://img.shields.io/badge/GA4-FABC05?style=flat-square&logo=googleanalytics&logoColor=black)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-34A853?style=flat-square&logo=googletagmanager&logoColor=white)
 ![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-1877F2?style=flat-square&logo=meta&logoColor=white)
