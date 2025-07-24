@@ -1,6 +1,10 @@
 <h1>👋 Hey! Nice to see you.</h1>
 
 <p align="center">
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
 
 ![Google Analytics 4](https://img.shields.io/badge/GA4-FABC05?style=flat-square&logo=googleanalytics&logoColor=black)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-34A853?style=flat-square&logo=googletagmanager&logoColor=white)
@@ -11,10 +15,7 @@
 ![Cookie Consent](https://img.shields.io/badge/Cookie%20Consent-V2-blue?style=flat-square&logo=cookiecutter&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=flat-square&logo=wix&logoColor=white)
+
 
 </p>
 
