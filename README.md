@@ -64,10 +64,10 @@ I combine:
 
 ### 📫 Let's Connect
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574827814281)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishno-rooy/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/markerterarifhossain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://linkedin.com/in/marketerarifhossain))
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801749827904)
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)]([https://arifwebdeveloper.vercel.app/])
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://arifwebdeveloper.vercel.app/)
 
